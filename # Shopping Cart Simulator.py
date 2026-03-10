@@ -1,5 +1,4 @@
 # Shopping Cart Simulator
-# Created by: Joyo
 
 class ShoppingCart:
     def __init__(self):
@@ -72,4 +71,5 @@ while True:
         break
 
     else:
+
         print("Invalid choice. Please try again.")
