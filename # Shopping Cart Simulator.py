@@ -37,7 +37,7 @@ class ShoppingCart:
             self.cart.clear()
 
 
-print("Welcome to Jabien's Shopping Cart Simulator")
+print("Welcome to Thea's Shopping Cart Simulator")
 
 cart = ShoppingCart()
 
@@ -67,9 +67,10 @@ while True:
         cart.checkout()
 
     elif choice == "5":
-        print("Goodbye! Thank you for using Jabien's Shopping Cart.")
+        print("Goodbye! Thank you for using Thea's Shopping Cart.")
         break
 
     else:
 
         print("Invalid choice. Please try again.")
+
